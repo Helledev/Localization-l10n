@@ -29,7 +29,7 @@ msgstr "Ups, denne side kunne ikke findes!"
 
 #: 404.php:30
 msgid "Helpful Links"
-msgstr ""
+msgstr "Nyttige links"
 
 # @ Avada
 #: 404.php:98
@@ -135,7 +135,7 @@ msgstr "URL"
 
 #: comments.php:68
 msgid ""
-"Save my name, email, and website in this browser for the next time I comment."
+"Gem mit navn, e-mail og websted i denne browser til næste gang jeg kommenterer."
 msgstr ""
 
 #: comments.php:72
